@@ -16,3 +16,4 @@ STM32-for-VSCode.config.yaml
 STM32F103C8TX_FLASH.ld
 STM32Make.make
 Wheel_1.ioc
+.vscode
